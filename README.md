@@ -6,3 +6,6 @@ IQtestApp is an app that uses computer vision library known as OPENCV.
 Using the app, user's IQ will be tested wether its in what level.
 
 Happy coding everyone.
+
+See output folder for the sample output.
+
